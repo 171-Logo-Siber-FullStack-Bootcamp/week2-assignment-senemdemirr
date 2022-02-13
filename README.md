@@ -11,3 +11,19 @@ cd week2-assigment-senemdemirr
 npm i
 npm start
 ```
+## Dosya Yapısı
+
+```
+.week2-assigment-senemdemirr
+├─ src
+ |      ├─ posts-controller.js
+ |      ├─ todos-controller.js
+ |      └─ users-controller.js
+├─ data
+ |      ├─ posts.json
+ |      ├─ todos.json
+ |      └─ users.json
+├─ package.json
+├─ readme.md
+└─ server.js
+```
